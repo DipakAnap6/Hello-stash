@@ -5,5 +5,10 @@ public static void main(String[] args){
 	public int sub(int a,int b){
 		return int c=a+b;
 	}
+
+
+	public int sum(int a,int b){
+		return int c=a+b;
+	}
 }
 }
